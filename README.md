@@ -15,4 +15,4 @@ Currently pursuing my graduation at university of North Texas in the field of co
 I’m always open to collaborating on backend development projects and building scalable systems. Feel free to reach out if you’d like to work together,I would love to learn from you!<br>
 <h3>📫 Get in touch</h3>
 <hr>
-You can email me at nitinreddycapt@gmail or connect with me on <a href="https://www.linkedin.com/in/nitin-reddy-66b11b230"></a>linkedin<br>
+You can email me at nitinreddycapt@gmail or connect with me on Linkedin: https://www.linkedin.com/in/nitin-reddy-66b11b230
