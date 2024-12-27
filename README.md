@@ -1,4 +1,4 @@
-<h2>👋 Hi, I’m Nitin<h2>
+<h3>👋 Hi, I’m Nitin<h3>
 I’m a passionate Python Backend Developer focused on building scalable, efficient, and secure web applications.<br>
 With a strong foundation in backend development using Python and frameworks<br>
 <h3>Current Focus</h3>
